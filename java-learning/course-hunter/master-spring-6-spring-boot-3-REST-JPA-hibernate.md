@@ -1,4 +1,4 @@
-# 
+# AGENDA OF THE COURSE
 1. What is Spring framework ?
 2. Spring Vs Java EE = Java Enterprise Edition
 3. Evolution of Spring and release timeline of Spring
